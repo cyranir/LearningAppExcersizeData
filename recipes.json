@@ -1,6 +1,6 @@
 [
     {
-        "name": "Mushroom Risotto",
+        "name": "Mushroom Risotto - Online",
         "category": "Italian",
         "featured": true,
         "image" : "mushroom risotto",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "name": "Baked Teriyaki Chicken",
+        "name": "Baked Teriyaki Chicken - Online",
         "category": "Japanese",
         "featured": false,
         "image" : "chicken teriyaki",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "name": "Lasagna",
+        "name": "Lasagna - Online",
         "category": "Italian",
         "featured": false,
         "image" : "lasagna",
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "name": "Pad Thai",
+        "name": "Pad Thai - Online",
         "category": "Thai",
         "featured": true,
         "image" : "pad thai",
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "name": "Monterey Chicken",
+        "name": "Monterey Chicken - Online",
         "category": "American",
         "featured": true,
         "image" : "monterey chicken",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "name": "Twice-baked potatoes",
+        "name": "Twice-baked potatoes - Online",
         "category": "American",
         "featured": false,
         "image" : "baked potato",
