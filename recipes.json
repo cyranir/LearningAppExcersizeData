@@ -1,36 +1,5 @@
 [
     {
-        "name": "Eggplant Parmesan",
-        "category": "Italian",
-        "featured": false,
-        "image" : "eggplant parmesan",
-        "description": "Baked eggplant with bread crumbs and lots of cheese. Delicious!",
-        "prepTime": "25 minutes",
-        "cookTime": "35 minutes",
-        "totalTime": "1 hour",
-        "servings": 10,
-        "highlights": [
-            "Vegetarian",
-            "Healthy",
-            "Easy clean-up"
-        ],
-        "ingredients": [
-            {"name": "Eggplant, peeled and thinly sliced", "num": 3},
-            {"name": "Large eggs", "num": 2},
-            {"name": "Italian seasoned bread crumbs", "num": 4, "unit": "cup"},
-            {"name": "Spaghetti sauce", "num": 6, "unit": "cup"},
-            {"name": "Mozarella cheese, shredded", "num": 2, "unit": "cup"},
-            {"name": "Parmesan cheese, grated", "num": 1, "denom": 2, "unit": "cup"},
-            {"name": "Dried basil", "num": 1, "denom": 2, "unit": "teaspoon"}
-        ],
-        "directions": [
-            "Preheat oven to 350 degrees F (175 degrees C).",
-            "Dip eggplant slices in egg, then in bread crumbs. Place in a single layer on a baking sheet. Bake in preheated oven for 5 minutes on each side.",
-            "In a 9x13 inch baking dish spread spaghetti sauce to cover the bottom. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses. Repeat with remaining ingredients, ending with the cheeses. Sprinkle basil on top.",
-            "Bake in preheated oven for 35 minutes, or until golden brown."
-        ]
-    },
-    {
         "name": "Mushroom Risotto",
         "category": "Italian",
         "featured": true,
